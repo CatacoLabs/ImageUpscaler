@@ -4,7 +4,7 @@ Proof of concept to use the CoreML GFPGAN model to upscale images locally in a M
 
 # Download CoreML weights
 
-First download the gfpgan weights locally in the same folder as ContentView
+First download the [gfpgan weights](https://drive.google.com/file/d/1-3fF4aPnh8ygUOmKItIrZ318xI9JGmQx/view?usp=sharing) locally in the same folder as ContentView
 
 ![weights](weights.png)
 
